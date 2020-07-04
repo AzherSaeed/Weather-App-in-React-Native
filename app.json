@@ -1,0 +1,17 @@
+{
+  "name": "Damy",
+  "displayName": "Damy",
+  "expo": {
+    "name": "Damy",
+    "slug": "Damy",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
